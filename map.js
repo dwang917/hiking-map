@@ -27,7 +27,7 @@ require([
     ElevationProfile,
   ) {
 
-    esriConfig.apiKey = "AAPKa5a5f7dd17c84857bb7e0f56e21e9ff0j22FWBdH1HDDGNNTCEfdtCNXZb12il13AYB9EuvpIHbnvPWekjm4lEKz7J2_-EI_";
+    esriConfig.apiKey = "";
 
 
 
